@@ -1,0 +1,19 @@
+# Sales Stream - Point of Sale System
+
+## Project Overview
+
+Sales Stream is a Java-based point of sale system designed for fast-food restaurants, such as McDonald's or Burger King. The application facilitates efficient order processing and tracking, providing a seamless experience for both customers and restaurant staff.
+
+## Features
+
+- **User Authentication:** Secure login system to track user sessions.
+- **Order Management:** Build and manage customer orders with an easy-to-use interface.
+- **Payment Processing:** Simulate payment transactions (integrate with actual payment logic in a real-world scenario).
+
+
+## How to Run/Use the Application
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/sales-stream.git
+   cd sales-stream
